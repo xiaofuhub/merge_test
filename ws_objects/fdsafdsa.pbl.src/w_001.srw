@@ -19,7 +19,7 @@ boolean center = true
 end type
 global w_001 w_001
 
-event open;//888dd
+event open;//888dd //00000q11
 end event
 
 on w_001.create

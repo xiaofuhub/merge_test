@@ -21,6 +21,7 @@ global w_004 w_004
 
 event open;//9090030df
 //9888
+//90909099909
 end event
 
 on w_004.create

@@ -1,12 +1,12 @@
-﻿$PBExportHeader$w_004.srw
+﻿$PBExportHeader$oo.srw
 forward
-global type w_004 from window
+global type oo from window
 end type
 end forward
 
-global type w_004 from window
-integer width = 3995
-integer height = 1752
+global type oo from window
+integer width = 3959
+integer height = 1648
 boolean titlebar = true
 string title = "Untitled"
 boolean controlmenu = true
@@ -17,15 +17,15 @@ long backcolor = 67108864
 string icon = "AppIcon!"
 boolean center = true
 end type
-global w_004 w_004
+global oo oo
 
-event open;//9090030df
-//9888
+event open;//fff
+//fdsffdd
 end event
 
-on w_004.create
+on oo.create
 end on
 
-on w_004.destroy
+on oo.destroy
 end on
 

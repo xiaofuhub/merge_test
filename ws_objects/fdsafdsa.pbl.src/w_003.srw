@@ -9,8 +9,7 @@ long backcolor = 0
 end type
 global w_003 w_003
 
-event open;//rrr
-//898989
+event open;//rrr kkkkk
 end event
 
 on w_003.create

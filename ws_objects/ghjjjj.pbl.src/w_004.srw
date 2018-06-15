@@ -5,8 +5,8 @@ end type
 end forward
 
 global type w_004 from window
-integer width = 3959
-integer height = 1648
+integer width = 3995
+integer height = 1752
 boolean titlebar = true
 string title = "Untitled"
 boolean controlmenu = true
@@ -19,7 +19,7 @@ boolean center = true
 end type
 global w_004 w_004
 
-event open;//9090
+event open;//9090030df
 end event
 
 on w_004.create

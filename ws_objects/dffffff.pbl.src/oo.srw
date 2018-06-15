@@ -19,7 +19,7 @@ boolean center = true
 end type
 global oo oo
 
-event open;//fff
+event open;//fff000
 end event
 
 on oo.create

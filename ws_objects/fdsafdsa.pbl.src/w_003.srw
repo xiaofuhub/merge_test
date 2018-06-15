@@ -5,23 +5,11 @@ end type
 end forward
 
 global type w_003 from window
-integer width = 3959
-integer height = 1648
-boolean titlebar = true
-string title = "Untitled"
-boolean controlmenu = true
-boolean minbox = true
-boolean maxbox = true
-boolean resizable = true
-long backcolor = 67108864
-string icon = "AppIcon!"
-boolean center = true
+long backcolor = 0
 end type
 global w_003 w_003
 
-event open;//fdsddddffffdddss
-//1322
-//78778
+event open;//rrr
 end event
 
 on w_003.create

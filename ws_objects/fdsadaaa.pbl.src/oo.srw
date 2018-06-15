@@ -21,6 +21,7 @@ global oo oo
 
 event open;//fff
 //fdsffdd
+//7878878
 end event
 
 on oo.create

@@ -20,6 +20,7 @@ end type
 global oo oo
 
 event open;//fff000
+//777fddd
 end event
 
 on oo.create

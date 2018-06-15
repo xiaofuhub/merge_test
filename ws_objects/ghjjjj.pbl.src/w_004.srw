@@ -20,7 +20,7 @@ end type
 global w_004 w_004
 
 event open;//9090030df
-//2322
+//2322dddd
 end event
 
 on w_004.create

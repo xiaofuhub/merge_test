@@ -9,6 +9,7 @@ long backcolor = 0
 end type
 global w_003 w_003
 
+//<<<<<<< HEAD
 event open;//rrr kkkkk
 //6666
 end event

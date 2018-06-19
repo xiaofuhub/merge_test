@@ -26,6 +26,7 @@ event open;//9090030df
 //ttttoooo1
 //8899666
 //eeeee
+//affffff
 end event
 
 on w_004.create

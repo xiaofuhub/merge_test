@@ -20,6 +20,7 @@ end type
 global w_ghj0006 w_ghj0006
 
 event open;//fdaddnnn
+//fdasss
 end event
 
 on w_ghj0006.create
